@@ -1,0 +1,3 @@
+name,mac,ip,comment
+Device1,00:11:22:33:44:55,10.10.10.101,Example device 1
+Device2,66:77:88:99:AA:BB,10.10.10.102,Example device 2
